@@ -9,14 +9,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243891716833"
-global.ownername = "🌹MR KEVIN TSH🌹"
+global.ownernomer = "50935334166"
+global.ownername = "🌹𝐆𝚯𝐃𝐃𝚵𝐒𝐒•𝐋𝚰𝐋𝚰𝚻𝚮🌹"
 global.ytname = "YT: alvinblaste...13"
 global.socialm = "GitHub: Kevin-Tsh"
 global.location = "Cong Kinshasa, Haut Katanga, Lubumbashi"
 
-global.ownernumber = '243891716833'  //creator number
-global.ownername = '🌹𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇🌹' //owner name
+global.ownernumber = '50935334166'  //creator number
+global.ownername = '💕𝐆𝚯𝐃𝐃𝚵𝐒𝐒•𝐋𝚰𝐋𝚰𝚻𝚮🌹' //owner name
 global.botname = '🐲⸢𝐆𝐎𝐊𝐔-𝐌𝐃⸥🐲' //name of the bot
 
 //sticker details
@@ -31,7 +31,7 @@ global.wm = "MR KEVIN TSH in©"
 global.link = 'https://whatsapp.com/channel/0029VajjpHoGZNCsyVLRRk1f'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [•]
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
